@@ -1,0 +1,19 @@
+{
+  "name": "liferaft-redis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "lesh <lesh@sysphere.org> (http://lesh.sysphere.org)",
+  "license": "ISC",
+  "dependencies": {
+    "argv": "0.0.2",
+    "colors": "^1.1.2",
+    "diagnostics": "^1.0.1",
+    "liferaft": "^0.1.1",
+    "redis": "^2.6.2"
+  }
+}
